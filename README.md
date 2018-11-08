@@ -31,3 +31,15 @@ https://twitter.com/terfno_mai/status/1059264144560418816
 https://twitter.com/terfno_mai/status/1059784831943340032
 
 ![image003](https://pbs.twimg.com/media/DrUcqqaVsAAxxTG.jpg)
+
+## 004 calculator
+初めてXD使った卍
+
+できるだけシンプルに作りたかったけど逆に分かりにくい
+
+### 004 output
+https://twitter.com/terfno_mai/status/1059969551641776130
+
+XD埋め込みに挑戦↓
+
+<iframe width="375" height="812" src="https://xd.adobe.com/embed/04a23323-941d-4ecc-72c5-22a85c6f04be-7293/?hints=off" frameborder="0" allowfullscreen></iframe>
