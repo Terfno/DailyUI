@@ -1,6 +1,8 @@
 # DailyUI
 DailyUI用
 
+markdownにXDのモックを埋め込めないからガバガバindex.htmlをgithubPagesで公開するかぁ
+
 ## 001 SignUP
 モック作れなかった
 
